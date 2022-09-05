@@ -1,2 +1,3 @@
 # Portugol-exemplo
-laço condicional
+exercicios de portugol
+
